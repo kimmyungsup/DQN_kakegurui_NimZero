@@ -1,8 +1,9 @@
 # DQN_kakegurui_Nim_Tyep_Zero
 This repo created Nim-Type-Zero game AI inspired by anime Kakegurui
 
-
+<img width="480" height="360">
 ![thumb](https://user-images.githubusercontent.com/26384442/53188792-6ebe7980-3649-11e9-89b3-0593d97da046.JPG)
+</img>
 
 This repo is a simple game environment that I made in the early days of studying reinforcement learning.
 
@@ -31,6 +32,7 @@ It repeats in different batches.
 I was sure AI would learn this part, and AI reached a win rate of 80% with a simple learning method.
 The learning method is Deep-Q-Network, and the learning time is about 3 to 4 hours.
 
+<br>
 
 Requirement
 ---------------
@@ -44,6 +46,8 @@ numpy 1.14.2
 
 
 
+<br>
+<br>
 
 Result
 ---------------
