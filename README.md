@@ -2,7 +2,7 @@
 This repo created Nim-Type-Zero game AI inspired by anime Kakegurui
 
 
-![Thumb](/thumb.jpg)
+![Thumb](./thumb.jpg)
 
 This repo is a simple game environment that I made in the early days of studying reinforcement learning.
 
@@ -19,7 +19,7 @@ But if you know some tricks in the game rules, you can.
 (This is a reasonable way, not something I created. See below.)
 That's why I thought I'd learn AI through this game environment.
 
-![Cards](/nim_1.jpg)
+![Cards](./nim_1.jpg)
 
 Each player's hand is four cards and can have 0, 1, 2, or 3 cards.
 The player has to pay one card for each turn, and if the sum of cards in his turn exceeds nine, he will lose.
@@ -48,7 +48,7 @@ numpy 1.14.2
 Result
 ---------------
 
-![Result](/result.jpg "tensorboard graph")
+![Result](./result.jpg "tensorboard graph")
 
 
 In fact, there is one more condition to make this performance come true: you have to know your co-op hand.
