@@ -48,7 +48,7 @@ numpy 1.14.2
 Result
 ---------------
 
-![Result](/result.jpg)
+![Result](/result.jpg "tensorboard graph")
 
 
 In fact, there is one more condition to make this performance come true: you have to know your co-op hand.
