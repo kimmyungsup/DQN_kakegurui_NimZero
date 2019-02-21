@@ -1,7 +1,7 @@
 # DQN_kakegurui_Nim_Tyep_Zero
 This repo created Nim-Type-Zero game AI inspired by anime Kakegurui
 
-<img width="480" height="360">![thumb](https://user-images.githubusercontent.com/26384442/53188792-6ebe7980-3649-11e9-89b3-0593d97da046.JPG)</img>
+![thumb](https://user-images.githubusercontent.com/26384442/53189361-aaa60e80-364a-11e9-8401-20f91a5e46c5.JPG)
 
 This repo is a simple game environment that I made in the early days of studying reinforcement learning.
 
